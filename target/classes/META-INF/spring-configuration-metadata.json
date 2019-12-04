@@ -1,0 +1,42 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.mutualCircle.mail.Mail",
+      "name": "email",
+      "type": "com.mutualCircle.mail.Mail"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.mutualCircle.mail.Mail",
+      "name": "email.attachments",
+      "type": "java.util.List<java.lang.Object>"
+    },
+    {
+      "sourceType": "com.mutualCircle.mail.Mail",
+      "name": "email.from",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mutualCircle.mail.Mail",
+      "name": "email.model",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>"
+    },
+    {
+      "sourceType": "com.mutualCircle.mail.Mail",
+      "name": "email.subject",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mutualCircle.mail.Mail",
+      "name": "email.template",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mutualCircle.mail.Mail",
+      "name": "email.to",
+      "type": "java.lang.String"
+    }
+  ]
+}
